@@ -40,7 +40,7 @@
       border-radius: 10px;
       padding: 20px;
       text-align: center;
-      transition: 0.3s;
+      transition: 0.3s; /*เมื่อเมาส์ชี้จะขยายช้าลง*/
     }
     .card:hover {
       box-shadow: 0 0 10px rgba(0,0,0,0.2);
